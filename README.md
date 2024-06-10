@@ -1,9 +1,11 @@
 | 🐻 | DATA MAHASISWA |
 | -------- | --- |
-| **Nama** | Galva Al Godzali|
-| **NIM** | 312010356 |
+| **Nama** | Wisnu Ikhwansyah Saputra|
+| **NIM** | 312010305 |
 | **Kelas** | TI.22.A3 |
 | **Mata Kuliah** | Pengolahan Citra |
+
+---
 
 
 
